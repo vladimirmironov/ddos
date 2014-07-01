@@ -1,7 +1,10 @@
-ddos.sh
+ddos*.sh
 ============
 
 simple bash script/command for ddos detecting
+tested on 
+* ubuntu
+* centos
 
 Info
 ------------
